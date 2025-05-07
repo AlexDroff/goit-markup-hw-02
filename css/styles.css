@@ -96,6 +96,10 @@ ul {
   text-align: center;
   background-color: #f4f4fd;
 }
+.list-team-main {
+  text-align: center;
+  background-color: #ffffff;
+}
 .title-main {
   font-weight: 700;
   font-size: 36px;
@@ -105,7 +109,6 @@ ul {
   text-transform: capitalize;
   color: #2e2f42;
 }
-
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
